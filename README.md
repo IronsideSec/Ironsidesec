@@ -15,7 +15,7 @@
 |[Inverter](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/scope)|Vesting| [#13](https://app.hats.finance/audit-competitions/inverter-network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/leaderboard)| - | $500 | 2 L |
 |[Velocimeter dex](https://audits.sherlock.xyz/contests/442)|ve(3,3) bribes|  [#26](https://audits.sherlock.xyz/contests/442/leaderboard)|[📄](https://github.com/sherlock-audit/2024-06-velocimeter-judging/issues/442)| $350 | 1 M |
 |[TokenSoft](https://audits.sherlock.xyz/contests/285)|Vesting| 🥈 [2](https://audits.sherlock.xyz/contests/285/leaderboard)|[📄](https://github.com/sherlock-audit/2024-05-tokensoft-distributor-contracts-update-judging/issues/26)| $300 | 1 M |
-|[Notional](https://audits.sherlock.xyz/contests/446)|Leveraged Vaults| 🥈 [2](https://audits.sherlock.xyz/contests/446/leaderboard)|[📄](https://github.com/search?q=repo%3Asherlock-audit%2F2024-06-leveraged-vaults-judging+ironsidesec+label%3AReward+++&type=issues&state=closed)| $160 | 2 H |
+|[Notional](https://audits.sherlock.xyz/contests/446)|Leveraged Vaults| 🥈 [2](https://audits.sherlock.xyz/contests/446/leaderboard)|[📄](https://github.com/search?q=repo%3Asherlock-audit%2F2024-06-leveraged-vaults-judging+ironsidesec+label%3AReward+++&type=issues&state=closed)| $150 | 2 H |
 
 ## Socials
 

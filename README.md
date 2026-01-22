@@ -2,7 +2,7 @@
 
 🛡️ Public portfolio : [sherlock](https://audits.sherlock.xyz/watson/Ironsidesec).
 
-🛡️ For private audits, dm on twitter : [@Ironsidesec](https://x.com/Ironsidesec).
+🛡️ Private audit with Shieldify sec. Check report : [Shiny x RWA report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Shiny-Security-Review.pdf)
 
 
 ## Audit Contests

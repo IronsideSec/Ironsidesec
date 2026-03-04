@@ -1,11 +1,16 @@
 # Ironside security's Auditing Portfolio
 
-🛡️ Public portfolio : [sherlock](https://audits.sherlock.xyz/watson/Ironsidesec).
+|Team|Protocol|category| Report|
+|--------|:--:|-----------|----------------|
+|Cyfrin| [Probable](https://probable.markets/) | Prediction market + yield | soon|
+|Cyfrin| [EthCF](https://ethcf.org/) | Escrow | soon|
+|Shieldify sec| Shiny | RWA | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Shiny-Security-Review.pdf)|
 
-🛡️ Private audit with Shieldify sec. Check report : [Shiny x RWA report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Shiny-Security-Review.pdf)
 
 
 ## Audit Contests
+🛡️ Public portfolio : [sherlock](https://audits.sherlock.xyz/watson/Ironsidesec).
+
 |Platform|Rank|Contest link|Leaderboard link|
 |--------|:--:|-----------|----------------|
 |[cantina](https://cantina.xyz/competitions/e92be0b9-b4f2-4bf2-9544-ae285fcfc02d)|#1|[primev-validator-registry](https://cantina.xyz/competitions/e92be0b9-b4f2-4bf2-9544-ae285fcfc02d)|[leaderboard](https://cantina.xyz/code/e92be0b9-b4f2-4bf2-9544-ae285fcfc02d/overview/leaderboard)|

@@ -4,7 +4,7 @@
 |Team|Protocol|category| Report|
 |--------|:--:|-----------|----------------|
 |Cyfrin| [Probable](https://probable.markets/) | Prediction market + yield | soon|
-|Cyfrin| [EthCF](https://ethcf.org/) | Escrow | soon|
+|Cyfrin| [EthCF](https://ethcf.org/) | Escrow | [📄](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-04-cyfrin-ethcf-swapboard-v2.0.pdf)|
 |Shieldify sec| Shiny | RWA | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Shiny-Security-Review.pdf)|
 
 
